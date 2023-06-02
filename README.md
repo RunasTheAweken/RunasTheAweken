@@ -44,3 +44,5 @@ I look forward to connecting and collaborating with a team of talented developer
 
 ** STATS **
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=runastheaweken)](https://github.com/anuraghazra/github-readme-stats)
+
