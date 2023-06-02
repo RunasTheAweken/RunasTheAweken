@@ -11,6 +11,12 @@ I am a junior Unity developer and junior C# developer. Passionate about the worl
 - Contributed to the development of LagunaGame as a Junior Unity Developer
 - Created several simple projects, which you can review on my repository
 
+**Im currently Working/Learning**
+- C#
+- Unity
+- C++
+- Photoshop
+
 I am open to new opportunities and eager to participate in exciting projects that will help me grow as a developer. If you have any interesting ideas or questions, feel free to reach out to me.
 
 **Contact:**
