@@ -43,5 +43,4 @@ I look forward to connecting and collaborating with a team of talented developer
 
 
 ** STATS **
-![My github status](https://github-readme-stats.vercel.app/api?username=RunasTheAweken&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RunasTheAweken&layout=compact)
+
