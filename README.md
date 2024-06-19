@@ -20,7 +20,7 @@ I am a junior Unity developer and junior C# developer. Passionate about the worl
 I am open to new opportunities and eager to participate in exciting projects that will help me grow as a developer. If you have any interesting ideas or questions, feel free to reach out to me.
 
 **Contact:**
-- Email: d_bee_d@mail.ru
+- Email: runasaweken@gmail.com
 - Discrod: Runas#5803
 - Telegram: +7 705 360 1081
 
