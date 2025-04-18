@@ -1,29 +1,41 @@
-Hi 👋 My name is Amirzhan
-I am a junior Unity developer and junior C#/Go developer. Passionate about the world of game development and software engineering, I am constantly striving to expand my skills and gain new experiences.
+About Me
 
-**Skills:**
-- Unity game development using C#
-- Solid understanding of programming fundamentals and data structures
-- Debugging and code optimization
-- Working with graphics and animations in Unity
+Hi 👋 I'm Amirzhan — a junior Unity and C# developer with a growing passion for game development and backend engineering. I'm currently diving deeper into ASP.NET and building real-world skills to become a confident and capable developer, ready to take on production-level challenges.
+🛠 Skills
 
-**Projects:**
-- Contributed to the development of LagunaGame as a Junior Unity Developer
-- Created several simple projects, which you can review on my repository
+    Unity game development with C#
 
-**Im currently Working/Learning**
-- C#
-- Unity
-- C++
-- Photoshop
+    .NET backend development (Web API, ASP.NET)
 
-I am open to new opportunities and eager to participate in exciting projects that will help me grow as a developer. If you have any interesting ideas or questions, feel free to reach out to me.
+    Solid foundation in programming principles and data structures
 
-**Contact:**
-- Email: runasaweken@gmail.com
-- Discrod: Runas#5803
-- Telegram: +7 705 360 1081
+    Debugging, profiling, and code optimization
 
-I look forward to connecting and collaborating with a team of talented developers to create engaging projects. Thank you for visiting my profile!
+    Experience working with graphics and animation systems in Unity
 
+🧩 Projects
 
+    Contributed to LagunaGame as a Junior Unity Developer
+
+    Built several small personal projects (check out my GitHub for details)
+
+🚀 Currently Learning & Practicing
+
+    C# (advanced features, best practices)
+
+    Unity (polishing skills for production-level work)
+
+    ASP.NET Web API (building full-featured backend systems)
+
+💬 Open To
+
+New opportunities, collaborations, and exciting challenges — especially projects where I can grow as a backend or game developer. Whether it’s a team effort or something experimental, I’m eager to contribute and learn.
+📬 Contact
+
+    Email: runasaweken@gmail.com
+
+    Discord: Runas#5803
+
+    Telegram: +7 705 360 1081
+
+Thanks for stopping by — let’s build something awesome together!
